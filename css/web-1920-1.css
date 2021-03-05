@@ -11,39 +11,39 @@ opacity: 0;transform: translate(-25px, 0);
 opacity: 0;
 }
 .animate-enter10 {
-  animation: animate-enter10-frames 1.00s ease 1.00s 1 normal forwards;
-  display: block;
-opacity: 0;transform: translate(-25px, 0);
-}
-.animate-enter11 {
-  animation: animate-enter11-frames 1.00s ease 1.10s 1 normal forwards;
-  display: block;
-opacity: 0;
-}
-.animate-enter12 {
-  animation: animate-enter12-frames 1.00s ease 1.20s 1 normal forwards;
+  animation: animate-enter10-frames 1.00s ease 1.20s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
+.animate-enter11 {
+  animation: animate-enter11-frames 1.00s ease 1.30s 1 normal forwards;
+  display: block;
+opacity: 0;transform: translate(0, 25px);
+}
+.animate-enter12 {
+  animation: animate-enter12-frames 2.00s ease 1.00s 1 normal forwards;
+  display: block;
+opacity: 0;
+}
 .animate-enter13 {
-  animation: animate-enter13-frames 1.00s ease 1.30s 1 normal forwards;
+  animation: animate-enter13-frames 1.00s ease 1.10s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter14 {
-  animation: animate-enter14-frames 1.00s ease 1.00s 1 normal forwards;
+  animation: animate-enter14-frames 1.00s ease 1.20s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(-25px, 0);
+opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter15 {
-  animation: animate-enter15-frames 2.00s ease 1.00s 1 normal forwards;
+  animation: animate-enter15-frames 1.00s ease 1.00s 1 normal forwards;
   display: block;
-opacity: 0;
+opacity: 0;transform: translate(-25px, 0);
 }
 .animate-enter16 {
   animation: animate-enter16-frames 1.00s ease 1.10s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;
 }
 .animate-enter17 {
   animation: animate-enter17-frames 1.00s ease 1.20s 1 normal forwards;
@@ -51,14 +51,14 @@ opacity: 0;transform: translate(0, 25px);
 opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter18 {
-  animation: animate-enter18-frames 1.00s ease 1.00s 1 normal forwards;
+  animation: animate-enter18-frames 1.00s ease 1.30s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(-25px, 0);
+opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter19 {
-  animation: animate-enter19-frames 1.00s ease 1.10s 1 normal forwards;
+  animation: animate-enter19-frames 1.00s ease 0.60s 1 normal forwards;
   display: block;
-opacity: 0;
+opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter2 {
   animation: animate-enter2-frames 0.70s ease 0.10s 1 normal forwards;
@@ -66,14 +66,14 @@ opacity: 0;
 opacity: 0;transform: translate(-25px, 0);
 }
 .animate-enter20 {
-  animation: animate-enter20-frames 1.00s ease 1.20s 1 normal forwards;
+  animation: animate-enter20-frames 1.00s ease 0.60s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter21 {
-  animation: animate-enter21-frames 1.00s ease 1.30s 1 normal forwards;
+  animation: animate-enter21-frames 1.00s ease 1.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(-25px, 0);
 }
 .animate-enter3 {
   animation: animate-enter3-frames 1.00s ease 0.30s 1 normal forwards;
@@ -91,57 +91,57 @@ opacity: 0;transform: translate(0, 25px);
 opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter6 {
-  animation: animate-enter6-frames 1.00s ease 0.60s 1 normal forwards;
+  animation: animate-enter6-frames 1.00s ease 0.30s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter7 {
-  animation: animate-enter7-frames 1.00s ease 0.60s 1 normal forwards;
+  animation: animate-enter7-frames 1.00s ease 0.30s 1 normal forwards;
   display: block;
 opacity: 0;transform: translate(0, 25px);
 }
 .animate-enter8 {
-  animation: animate-enter8-frames 1.00s ease 0.30s 1 normal forwards;
+  animation: animate-enter8-frames 1.00s ease 1.00s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;transform: translate(-25px, 0);
 }
 .animate-enter9 {
-  animation: animate-enter9-frames 1.00s ease 0.30s 1 normal forwards;
+  animation: animate-enter9-frames 1.00s ease 1.10s 1 normal forwards;
   display: block;
-opacity: 0;transform: translate(0, 25px);
+opacity: 0;
 }
-.overpass-black-blue-whale-50px {
+.overpass-black-blue-whale-23px {
   color: var(--blue-whale);
   font-family: 'Overpass', Helvetica;
-  font-size: 50px;
+  font-size: 23px;
   font-style: normal;
   font-weight: 900;
 }
-.overpass-black-quill-gray-90px {
+.overpass-black-quill-gray-42px {
   color: var(--quill-gray);
   font-family: 'Overpass', Helvetica;
-  font-size: 90px;
+  font-size: 42px;
   font-style: normal;
   font-weight: 900;
 }
-.overpass-black-white-30px {
+.overpass-black-white-14px {
   color: var(--white);
   font-family: 'Overpass', Helvetica;
-  font-size: 30px;
+  font-size: 14px;
   font-style: normal;
   font-weight: 900;
 }
-.overpass-bold-cerulean-30px {
+.overpass-bold-cerulean-20px {
   color: var(--cerulean);
   font-family: 'Overpass', Helvetica;
-  font-size: 30px;
+  font-size: 20px;
   font-style: normal;
   font-weight: 700;
 }
-.overpass-bold-gray-30px {
+.overpass-bold-gray-20px {
   color: var(--gray);
   font-family: 'Overpass', Helvetica;
-  font-size: 30px;
+  font-size: 20px;
   font-style: normal;
   font-weight: 700;
 }
@@ -151,36 +151,36 @@ opacity: 0;transform: translate(0, 25px);
   overflow: hidden;
   overflow-x: hidden;
   position: relative;
-  width: 1920px;
+  width: 1000px;
 }
 .web-1920-1 .at-bandwidth-we-ringilla-tellus-C61RwL {
   background-color: transparent;
   color: rgba(0,0,0,1.0);
   display: block;
   font-family: 'Overpass', Helvetica;
-  font-size: 40px;
+  font-size: 20px;
   font-style: normal;
   font-weight: 600;
   height: auto;
   left: 106px;
   letter-spacing: 0.00px;
-  line-height: 40px;
+  line-height: 20px;
   position: absolute;
   text-align: left;
-  top: 240px;
-  width: 791px;
+  top: 168px;
+  width: 376px;
 opacity: 0;transform: translate(-25px, 0);
 }
 .web-1920-1 .athens-renderings-imagery-C61RwL {
   background-color: transparent;
   display: block;
   height: auto;
-  left: 122px;
+  left: 114px;
   letter-spacing: 0.00px;
-  line-height: 50px;
+  line-height: 23px;
   position: absolute;
   text-align: left;
-  top: 1776px;
+  top: 856px;
   white-space: nowrap;
   width: auto;
 opacity: 0;
@@ -227,11 +227,11 @@ opacity: 0;
 .web-1920-1 .group-4-C61RwL {
   background-color: transparent;
   display: block;
-  height: 97px;
+  height: 46px;
   left: 106px;
   position: absolute;
-  top: 597px;
-  width: 358px;
+  top: 338px;
+  width: 170px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .group-5-PIEh7b {
@@ -246,37 +246,37 @@ opacity: 0;transform: translate(0, 25px);
 .web-1920-1 .group-6-C61RwL {
   background-color: transparent;
   display: block;
-  height: 97px;
-  left: 520px;
+  height: 46px;
+  left: 302px;
   position: absolute;
-  top: 597px;
-  width: 358px;
+  top: 338px;
+  width: 170px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .group-7-C61RwL {
   background-color: transparent;
   display: block;
-  height: 114px;
-  left: 122px;
+  height: 53px;
+  left: 114px;
   position: absolute;
-  top: 820px;
-  width: 241px;
+  top: 444px;
+  width: 114px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .learn-more-C61RwL {
   background-color: transparent;
   display: block;
   height: auto;
-  left: 960px;
+  left: 511px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 20px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
   text-decoration: underline;
-  top: 1475px;
+  top: 757px;
   transition: all 0.2s ease;
-  width: 819px;
+  width: 389px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .learn-more-C61RwL:hover {
@@ -287,16 +287,16 @@ filter: grayscale(100%);
   background-color: transparent;
   display: block;
   height: auto;
-  left: 122px;
+  left: 114px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 20px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
   text-decoration: underline;
-  top: 2021px;
+  top: 1030px;
   transition: all 0.2s ease;
-  width: 819px;
+  width: 389px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .learn-more-VMr6Om:hover {
@@ -307,16 +307,16 @@ filter: grayscale(100%);
   background-color: transparent;
   display: block;
   height: auto;
-  left: 971px;
+  left: 516px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 20px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
   text-decoration: underline;
-  top: 2623px;
+  top: 1357px;
   transition: all 0.2s ease;
-  width: 819px;
+  width: 389px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .learn-more-mzXdH9:hover {
@@ -327,13 +327,13 @@ filter: grayscale(100%);
   background-color: transparent;
   display: block;
   height: auto;
-  left: 476px;
+  left: 281px;
   letter-spacing: 0.00px;
-  line-height: 90px;
+  line-height: 42px;
   opacity: 0.57;
   position: absolute;
   text-align: left;
-  top: 832px;
+  top: 450px;
   white-space: nowrap;
   width: auto;
 opacity: 0;transform: translate(0, 25px);
@@ -342,12 +342,13 @@ opacity: 0;transform: translate(0, 25px);
   background-color: transparent;
   display: block;
   height: auto;
-  left: 1538px;
+  left: 617px;
   letter-spacing: 0.00px;
-  line-height: 90px;
+  line-height: 42px;
+  opacity: 0.53;
   position: absolute;
   text-align: left;
-  top: 832px;
+  top: 450px;
   white-space: nowrap;
   width: auto;
 opacity: 0;transform: translate(0, 25px);
@@ -356,16 +357,16 @@ opacity: 0;transform: translate(0, 25px);
   background-color: transparent;
   color: rgba(75,170,86,1.0);
   font-family: 'Overpass', Helvetica;
-  font-size: 90px;
+  font-size: 42px;
   font-style: normal;
   font-weight: 900;
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
-  line-height: 90px;
+  line-height: 42px;
   position: absolute;
   text-align: left;
-  top: 12px;
+  top: 6px;
   white-space: nowrap;
   width: calc(100.00% + 2px);
 }
@@ -374,11 +375,11 @@ opacity: 0;transform: translate(0, 25px);
   height: calc(100.00% + 2px);
   left: 0px;
   letter-spacing: 0.00px;
-  line-height: 90px;
+  line-height: 42px;
   pointer-events: auto;
   position: absolute;
   text-align: left;
-  top: 12px;
+  top: 6px;
   transition: all 0.2s ease;
   white-space: nowrap;
   width: 100%;
@@ -391,12 +392,12 @@ opacity: 0;
   background-color: transparent;
   display: block;
   height: auto;
-  left: 830px;
+  left: 449px;
   letter-spacing: 0.00px;
-  line-height: 90px;
+  line-height: 42px;
   position: absolute;
   text-align: left;
-  top: 832px;
+  top: 450px;
   white-space: nowrap;
   width: auto;
 opacity: 0;transform: translate(0, 25px);
@@ -405,13 +406,12 @@ opacity: 0;transform: translate(0, 25px);
   background-color: transparent;
   display: block;
   height: auto;
-  left: 1184px;
+  left: 785px;
   letter-spacing: 0.00px;
-  line-height: 90px;
-  opacity: 0.53;
+  line-height: 42px;
   position: absolute;
   text-align: left;
-  top: 832px;
+  top: 450px;
   white-space: nowrap;
   width: auto;
 opacity: 0;transform: translate(0, 25px);
@@ -420,80 +420,80 @@ opacity: 0;transform: translate(0, 25px);
   background-color: transparent;
   display: block;
   height: auto;
-  left: 960px;
+  left: 511px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 20px;
   position: absolute;
   text-align: left;
-  top: 1316px;
-  width: 819px;
+  top: 624px;
+  width: 389px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .lorem-ipsum-dol-ringilla-tellus-VMr6Om {
   background-color: transparent;
   display: block;
   height: auto;
-  left: 122px;
+  left: 114px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 20px;
   position: absolute;
   text-align: left;
-  top: 1862px;
-  width: 819px;
+  top: 897px;
+  width: 389px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .lorem-ipsum-dol-ringilla-tellus-mzXdH9 {
   background-color: transparent;
   display: block;
   height: auto;
-  left: 971px;
+  left: 516px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 20px;
   position: absolute;
   text-align: left;
-  top: 2464px;
-  width: 819px;
+  top: 1223px;
+  width: 389px;
 opacity: 0;transform: translate(0, 25px);
 }
 .web-1920-1 .play-video-bc1X8j {
   background-color: transparent;
-  bottom: calc(40.35% - 16px);
-  height: 40px;
-  letter-spacing: 4.50px;
-  line-height: 30px;
+  bottom: calc(38.46% - 8px);
+  height: 20px;
+  left: calc(50.00% - 51px);
+  letter-spacing: 2.10px;
+  line-height: 14px;
   position: absolute;
-  right: calc(49.30% - 106px);
   text-align: left;
   white-space: nowrap;
-  width: 216px;
+  width: 102px;
 }
 .web-1920-1 .play-video-vSXVhc {
   background-color: transparent;
-  bottom: calc(40.35% - 16px);
-  height: 40px;
-  letter-spacing: 4.50px;
-  line-height: 30px;
+  bottom: calc(38.46% - 8px);
+  height: 20px;
+  left: calc(50.00% - 51px);
+  letter-spacing: 2.10px;
+  line-height: 14px;
   position: absolute;
-  right: calc(49.30% - 106px);
   text-align: left;
   white-space: nowrap;
-  width: 216px;
+  width: 102px;
 }
 .web-1920-1 .project-athens-C61RwL {
   background-color: transparent;
   color: var(--blue-whale);
   display: block;
   font-family: 'Overpass', Helvetica;
-  font-size: 80px;
+  font-size: 37px;
   font-style: normal;
   font-weight: 900;
   height: auto;
   left: 106px;
   letter-spacing: 0.00px;
-  line-height: 80px;
+  line-height: 37px;
   position: absolute;
   text-align: left;
-  top: 115px;
+  top: 109px;
   white-space: nowrap;
   width: auto;
 opacity: 0;transform: translate(-25px, 0);
@@ -502,12 +502,12 @@ opacity: 0;transform: translate(-25px, 0);
   background-color: transparent;
   display: block;
   height: auto;
-  left: 960px;
+  left: 511px;
   letter-spacing: 0.00px;
-  line-height: 60px;
+  line-height: 28px;
   position: absolute;
   text-align: left;
-  top: 1166px;
+  top: 553px;
   white-space: nowrap;
   width: auto;
 opacity: 0;
@@ -516,81 +516,81 @@ opacity: 0;
   background-color: transparent;
   display: block;
   height: auto;
-  left: 971px;
+  left: 516px;
   letter-spacing: 0.00px;
-  line-height: 60px;
+  line-height: 28px;
   position: absolute;
   text-align: left;
-  top: 2314px;
+  top: 1152px;
   white-space: nowrap;
   width: auto;
 opacity: 0;
 }
 .web-1920-1 .recent-updates-2jslx4 {
   background-color: transparent;
-  bottom: calc(40.35% - 16px);
-  height: 40px;
-  left: 48px;
+  bottom: calc(38.46% - 8px);
+  height: 20px;
+  left: 23px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 14px;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: calc(100.00% - 93px);
+  width: calc(100.00% - 45px);
 }
 .web-1920-1 .recent-updates-gR8NH8 {
   background-color: transparent;
-  bottom: calc(40.35% - 16px);
-  height: 40px;
-  left: 48px;
+  bottom: calc(38.46% - 8px);
+  height: 20px;
+  left: 23px;
   letter-spacing: 0.00px;
-  line-height: 30px;
+  line-height: 14px;
   position: absolute;
   text-align: left;
   white-space: nowrap;
-  width: calc(100.00% - 93px);
+  width: calc(100.00% - 45px);
 }
 .web-1920-1 .rover-athens2-C61RwL {
   background-color: transparent;
   display: block;
-  height: 583px;
-  left: 949px;
+  height: 277px;
+  left: 506px;
   position: absolute;
-  top: 121px;
-  width: 908px;
+  top: 112px;
+  width: 430px;
 opacity: 0;
 }
 .web-1920-1 .x2-a4-a8665-C61RwL {
   background-color: transparent;
   border-radius: 30px;
   display: block;
-  height: 588px;
-  left: 82px;
+  height: 326px;
+  left: 66px;
   position: absolute;
-  top: 1054px;
-  width: 837px;
+  top: 522px;
+  width: 444px;
 opacity: 0;transform: translate(-25px, 0);
 }
 .web-1920-1 .x2-a4-a8665-VMr6Om {
   background-color: transparent;
   border-radius: 30px;
   display: block;
-  height: 588px;
-  left: 990px;
+  height: 326px;
+  left: 74px;
   position: absolute;
-  top: 1633px;
-  width: 837px;
+  top: 1124px;
+  width: 444px;
 opacity: 0;transform: translate(-25px, 0);
 }
 .web-1920-1 .x2-a4-a8665-mzXdH9 {
   background-color: transparent;
   border-radius: 30px;
   display: block;
-  height: 588px;
-  left: 93px;
+  height: 326px;
+  left: 504px;
   position: absolute;
-  top: 2202px;
-  width: 837px;
+  top: 811px;
+  width: 444px;
 opacity: 0;transform: translate(-25px, 0);
 }
 :root {
@@ -612,18 +612,18 @@ to{opacity: 1;}
 }
 @keyframes animate-enter10-frames {
 
-from{opacity: 0;transform: translate(-25px, 0);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter11-frames {
 
-from{opacity: 0;}
-to{opacity: 1;}
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter12-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
+from{opacity: 0;}
+to{opacity: 1;}
 }
 @keyframes animate-enter13-frames {
 
@@ -632,18 +632,18 @@ to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter14-frames {
 
-from{opacity: 0;transform: translate(-25px, 0);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter15-frames {
 
-from{opacity: 0;}
-to{opacity: 1;}
+from{opacity: 0;transform: translate(-25px, 0);}
+to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter16-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
+from{opacity: 0;}
+to{opacity: 1;}
 }
 @keyframes animate-enter17-frames {
 
@@ -652,13 +652,13 @@ to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter18-frames {
 
-from{opacity: 0;transform: translate(-25px, 0);}
+from{opacity: 0;transform: translate(0, 25px);}
 to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter19-frames {
 
-from{opacity: 0;}
-to{opacity: 1;}
+from{opacity: 0;transform: translate(0, 25px);}
+to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter2-frames {
 
@@ -672,7 +672,7 @@ to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter21-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(-25px, 0);}
 to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter3-frames {
@@ -702,11 +702,11 @@ to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter8-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
+from{opacity: 0;transform: translate(-25px, 0);}
 to{opacity: 1;transform: translate(0,0);}
 }
 @keyframes animate-enter9-frames {
 
-from{opacity: 0;transform: translate(0, 25px);}
-to{opacity: 1;transform: translate(0,0);}
+from{opacity: 0;}
+to{opacity: 1;}
 }
